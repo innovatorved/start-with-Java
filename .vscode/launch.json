@@ -1,0 +1,140 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch j16StringMetheods",
+            "request": "launch",
+            "mainClass": "j16StringMetheods",
+            "projectName": "Java_d58c8cbf"
+        },
+        {
+            "type": "java",
+            "name": "Launch j15DifferentWaysToPrintInJav",
+            "request": "launch",
+            "mainClass": "j15DifferentWaysToPrintInJav",
+            "projectName": "Java_d58c8cbf"
+        },
+        {
+            "type": "java",
+            "name": "Launch j15DifferentWaysToPrintInJava",
+            "request": "launch",
+            "mainClass": "j15DifferentWaysToPrintInJava",
+            "projectName": "Java_d58c8cbf"
+        },
+        {
+            "type": "java",
+            "name": "Launch j14Strings",
+            "request": "launch",
+            "mainClass": "j14Strings",
+            "projectName": "Java_d58c8cbf"
+        },
+        {
+            "type": "java",
+            "name": "Launch j13ProblemCheckGreaterOrNot",
+            "request": "launch",
+            "mainClass": "j13ProblemCheckGreaterOrNot",
+            "projectName": "Java_d58c8cbf"
+        },
+        {
+            "type": "java",
+            "name": "Launch j12ProblemChatIntAdd",
+            "request": "launch",
+            "mainClass": "j12ProblemChatIntAdd",
+            "projectName": "Java_d58c8cbf"
+        },
+        {
+            "type": "java",
+            "name": "Launch j11IncrementAndDecrement",
+            "request": "launch",
+            "mainClass": "j11IncrementAndDecrement",
+            "projectName": "Java_d58c8cbf"
+        },
+        {
+            "type": "java",
+            "name": "Launch j10ResultingDataType",
+            "request": "launch",
+            "mainClass": "j10ResultingDataType",
+            "projectName": "Java_d58c8cbf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch DemoFile",
+            "request": "launch",
+            "mainClass": "DemoFile",
+            "projectName": "Java_d58c8cbf"
+        },
+        {
+            "type": "java",
+            "name": "Launch hellogen",
+            "request": "launch",
+            "mainClass": "hellogen",
+            "projectName": "Java_d58c8cbf"
+        },
+        {
+            "type": "java",
+            "name": "Launch j2print",
+            "request": "launch",
+            "mainClass": "j2print",
+            "projectName": "Java_d58c8cbf"
+        },
+        {
+            "type": "java",
+            "name": "Launch j3",
+            "request": "launch",
+            "mainClass": "j3",
+            "projectName": "Java_d58c8cbf"
+        },
+        {
+            "type": "java",
+            "name": "Launch j4Literals",
+            "request": "launch",
+            "mainClass": "j4Literals",
+            "projectName": "Java_d58c8cbf"
+        },
+        {
+            "type": "java",
+            "name": "Launch j5UserInput",
+            "request": "launch",
+            "mainClass": "j5UserInput",
+            "projectName": "Java_d58c8cbf"
+        },
+        {
+            "type": "java",
+            "name": "Launch j6CheckHasTypeOrNot",
+            "request": "launch",
+            "mainClass": "j6CheckHasTypeOrNot",
+            "projectName": "Java_d58c8cbf"
+        },
+        {
+            "type": "java",
+            "name": "Launch j7ProblemPercentStudent",
+            "request": "launch",
+            "mainClass": "j7ProblemPercentStudent",
+            "projectName": "Java_d58c8cbf"
+        },
+        {
+            "type": "java",
+            "name": "Launch j8Operators",
+            "request": "launch",
+            "mainClass": "j8Operators",
+            "projectName": "Java_d58c8cbf"
+        },
+        {
+            "type": "java",
+            "name": "Launch j9PrecedenceAssocitivity",
+            "request": "launch",
+            "mainClass": "j9PrecedenceAssocitivity",
+            "projectName": "Java_d58c8cbf"
+        }
+    ]
+}
