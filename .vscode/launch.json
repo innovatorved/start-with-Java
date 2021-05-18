@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch j31ProbReverseArrayBySwapping",
+            "request": "launch",
+            "mainClass": "j31ProbReverseArrayBySwapping",
+            "projectName": "Java_d58c8cbf"
+        },
+        {
+            "type": "java",
+            "name": "Launch j30MultiDimension",
+            "request": "launch",
+            "mainClass": "j30MultiDimension",
+            "projectName": "Java_d58c8cbf"
+        },
+        {
+            "type": "java",
+            "name": "Launch j29ForEachLoop",
+            "request": "launch",
+            "mainClass": "j29ForEachLoop",
+            "projectName": "Java_d58c8cbf"
+        },
+        {
+            "type": "java",
+            "name": "Launch j28Array",
+            "request": "launch",
+            "mainClass": "j28Array",
+            "projectName": "Java_d58c8cbf"
+        },
+        {
+            "type": "java",
+            "name": "Launch j23ProblemCheckEnteredWebsiteTopDomainRelatedTo",
+            "request": "launch",
+            "mainClass": "j23ProblemCheckEnteredWebsiteTopDomainRelatedTo",
+            "projectName": "Java_d58c8cbf"
+        },
+        {
+            "type": "java",
+            "name": "Launch j22EnhancedSwitchCase",
+            "request": "launch",
+            "mainClass": "j22EnhancedSwitchCase",
+            "projectName": "Java_d58c8cbf"
+        },
+        {
+            "type": "java",
+            "name": "Launch j21SwitchCaseWithString",
+            "request": "launch",
+            "mainClass": "j21SwitchCaseWithString",
+            "projectName": "Java_d58c8cbf"
+        },
+        {
+            "type": "java",
+            "name": "Launch j20SwitchCase",
+            "request": "launch",
+            "mainClass": "j20SwitchCase",
+            "projectName": "Java_d58c8cbf"
+        },
+        {
+            "type": "java",
             "name": "Launch j16StringMetheods",
             "request": "launch",
             "mainClass": "j16StringMetheods",
