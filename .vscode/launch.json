@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch j38AccessModifier",
+            "request": "launch",
+            "mainClass": "j38AccessModifier",
+            "projectName": "Java_d58c8cbf"
+        },
+        {
+            "type": "java",
+            "name": "Launch j37CreateClass",
+            "request": "launch",
+            "mainClass": "j37CreateClass",
+            "projectName": "Java_d58c8cbf"
+        },
+        {
+            "type": "java",
             "name": "Launch j31ProbReverseArrayBySwapping",
             "request": "launch",
             "mainClass": "j31ProbReverseArrayBySwapping",
