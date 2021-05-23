@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch j45DynamicMethodDispatch",
+            "request": "launch",
+            "mainClass": "j45DynamicMethodDispatch",
+            "projectName": "Java_d58c8cbf"
+        },
+        {
+            "type": "java",
+            "name": "Launch j43thisAndSuper",
+            "request": "launch",
+            "mainClass": "j43thisAndSuper",
+            "projectName": "Java_d58c8cbf"
+        },
+        {
+            "type": "java",
+            "name": "Launch j42j41ConstructorsInInheritance2",
+            "request": "launch",
+            "mainClass": "j42j41ConstructorsInInheritance2",
+            "projectName": "Java_d58c8cbf"
+        },
+        {
+            "type": "java",
+            "name": "Launch j41ConstructorsInInheritance",
+            "request": "launch",
+            "mainClass": "j41ConstructorsInInheritance",
+            "projectName": "Java_d58c8cbf"
+        },
+        {
+            "type": "java",
+            "name": "Launch j40Inheritace",
+            "request": "launch",
+            "mainClass": "j40Inheritace",
+            "projectName": "Java_d58c8cbf"
+        },
+        {
+            "type": "java",
             "name": "Launch j38AccessModifier",
             "request": "launch",
             "mainClass": "j38AccessModifier",
