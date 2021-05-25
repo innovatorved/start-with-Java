@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch j48DefaultAndPrivateMetheodInInterfaces",
+            "request": "launch",
+            "mainClass": "j48DefaultAndPrivateMetheodInInterfaces",
+            "projectName": "Java_d58c8cbf"
+        },
+        {
+            "type": "java",
+            "name": "Launch j47Interfaces",
+            "request": "launch",
+            "mainClass": "j47Interfaces",
+            "projectName": "Java_d58c8cbf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Base5$j47Interfaces",
+            "request": "launch",
+            "mainClass": "Base5$j47Interfaces",
+            "projectName": "Java_d58c8cbf"
+        },
+        {
+            "type": "java",
+            "name": "Launch j46AbstractClass",
+            "request": "launch",
+            "mainClass": "j46AbstractClass",
+            "projectName": "Java_d58c8cbf"
+        },
+        {
+            "type": "java",
             "name": "Launch j45DynamicMethodDispatch",
             "request": "launch",
             "mainClass": "j45DynamicMethodDispatch",
