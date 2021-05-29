@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch j56JoinAndInterpretsInThread",
+            "request": "launch",
+            "mainClass": "j56JoinAndInterpretsInThread",
+            "projectName": "Java_d58c8cbf"
+        },
+        {
+            "type": "java",
+            "name": "Launch j55SetThreadPriority",
+            "request": "launch",
+            "mainClass": "j55SetThreadPriority",
+            "projectName": "Java_d58c8cbf"
+        },
+        {
+            "type": "java",
+            "name": "Launch j54ThreadIdAndName",
+            "request": "launch",
+            "mainClass": "j54ThreadIdAndName",
+            "projectName": "Java_d58c8cbf"
+        },
+        {
+            "type": "java",
+            "name": "Launch j53ThreadUsingRunnableInterface",
+            "request": "launch",
+            "mainClass": "j53ThreadUsingRunnableInterface",
+            "projectName": "Java_d58c8cbf"
+        },
+        {
+            "type": "java",
+            "name": "Launch j52MultiThreading",
+            "request": "launch",
+            "mainClass": "j52MultiThreading",
+            "projectName": "Java_d58c8cbf"
+        },
+        {
+            "type": "java",
+            "name": "Launch j51AccessModifier2",
+            "request": "launch",
+            "mainClass": "j51AccessModifier2",
+            "projectName": "Java_d58c8cbf"
+        },
+        {
+            "type": "java",
+            "name": "Launch j50AccessModifier",
+            "request": "launch",
+            "mainClass": "com.company.j50AccessModifier",
+            "projectName": "Java_d58c8cbf"
+        },
+        {
+            "type": "java",
+            "name": "Launch j50AccessModifier",
+            "request": "launch",
+            "mainClass": "j50AccessModifier",
+            "projectName": "Java_d58c8cbf"
+        },
+        {
+            "type": "java",
             "name": "Launch j48DefaultAndPrivateMetheodInInterfaces",
             "request": "launch",
             "mainClass": "j48DefaultAndPrivateMetheodInInterfaces",
