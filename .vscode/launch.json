@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch j19RelationAndLogicalOperator",
+            "request": "launch",
+            "mainClass": "j19RelationAndLogicalOperator",
+            "projectName": "start-with-Java_e4d8a2ff"
+        },
+        {
+            "type": "java",
             "name": "Launch j56JoinAndInterpretsInThread",
             "request": "launch",
             "mainClass": "j56JoinAndInterpretsInThread",

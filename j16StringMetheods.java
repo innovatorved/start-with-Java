@@ -1,5 +1,3 @@
-import jdk.tools.jlink.internal.plugins.SystemModulesPlugin;
-
 public class j16StringMetheods {
     public static void main(String[] args){
         // Note : Strings are Immutable once declare doesnot changed

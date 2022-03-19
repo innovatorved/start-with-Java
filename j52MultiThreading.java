@@ -4,7 +4,7 @@ class MyThread1 extends Thread{
     @Override
     public void run(){
         int i = 0;
-        while(i<20){
+        while(i<1000){
             System.out.println("Thread1 is Running");
             i++;
         }
@@ -15,7 +15,7 @@ class MyThread2 extends Thread{
     @Override
     public void run(){
         int i = 0;
-        while(i<20){
+        while(i<2000){
             System.out.println("Thread2 is Running");
             i++;
         }

@@ -26,7 +26,7 @@ public class j15DifferentWaysToPrintInJava {
 
         System.out.printf("It only returnss two value after decimal [%.2f]" , y);
 
-        System.out.printf("\n\nIt return all value in 7 space [%7d] " , z);
+        System.out.printf("\n\nIt return all value in 7 space [%7d] " , 123426232323256789);
 
 
 
